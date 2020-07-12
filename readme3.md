@@ -2,4 +2,4 @@
 
 Work 
 
-Learn git and github from xero to hero
+Learn git and github for the worst branch
